@@ -1,1 +1,0 @@
-# palestinian-flag-by-python
